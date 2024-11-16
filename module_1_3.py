@@ -9,4 +9,4 @@ is_student = True
 print( f'Name: {name}' )
 print ( f'Age: {age}' )
 print( f'Age New: {age_new}' )
-print( f'Is Student {is_student}' )
+print( f'Is Student: {is_student}' )
